@@ -123,6 +123,8 @@ body {
     margin-bottom: 50px;
     padding-top: 50px;
     font-family: 'Open sans';
+    padding-left: 5px;
+    padding-right: 5px;
 }
 .input-1-1 {
     margin: 0 auto;
@@ -133,6 +135,8 @@ body {
     font-family: 'Open sans';
     font-size: 20px;
     text-transform: uppercase;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 /* Description */
 .Description h2 {
@@ -243,8 +247,8 @@ body {
     font-family: 'Open sans';
     font-size: 20px;
     text-transform: uppercase;
-    padding-left: 5px;
-    padding-right: 5px;
+    padding-left: 12px;
+    padding-right: 12px;
 }
 .input-Price-1 {
     margin: 0 auto;
@@ -253,6 +257,8 @@ body {
     text-align: center;
     padding-top: 50px;
     font-family: 'Open sans';
+    padding-left: 5px;
+    padding-right: 5px;
 }
 .input-Price-2 {
     margin: 0 auto;
@@ -261,6 +267,8 @@ body {
     margin-bottom: 50px;
     padding-top: 50px;
     font-family: 'Open sans';
+    padding-left: 8px;
+    padding-right: 5px;
 }
 .Price-text-box-2-total {
     display: flex;
